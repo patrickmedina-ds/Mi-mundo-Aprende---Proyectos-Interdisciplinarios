@@ -1,0 +1,11 @@
+# Solo se sube a Vercel lo necesario para compilar la app.
+# Quedan fuera los documentos del curso, el .rar, db/, scripts/ y especificaciones internas.
+/*
+!src
+!public
+!index.html
+!package.json
+!package-lock.json
+!vite.config.js
+!tsconfig.json
+!vercel.json
